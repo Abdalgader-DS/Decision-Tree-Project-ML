@@ -60,13 +60,15 @@ To measure how well the model predicts and identify strengths and weaknesses.
 
 The project allows user interaction the model 
 
-🚀 Conclusion
+# Conclusion
 
 This project demonstrates the complete workflow of building a Decision Tree classifier, starting from raw data to a fully functional predictive model.
 It serves as a practical example of how machine learning models are developed in real-world applications.
 
 project related file 
+
 DICSION TREE CODE  contains the full code for execution 
+
 employee attration the datast
 
 the data source is from kaggle
